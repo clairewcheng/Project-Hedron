@@ -6,6 +6,7 @@ Components Needed:
 - Google Daydream Headset
 - Android Phone (8.0 Oreo and above)
 - Headset Shield Sound Amplifier(Optional)
+- Mac or PC running Unity
 
 To get started: 
 1. Download the latest version of Unity(curr. Version 2018.3.10f1 Personal) Note: make sure to download the Android apk package. 
@@ -17,5 +18,7 @@ To get started:
 7. Build and Run the scene "Ball Pit" to your Android phone
 
 Disclaimer- The code has some degree of automatic calibration for noise in your current environment but may need further modifications. This project was not an investigation of how to make this program run on all devices and all environments ;)
+
+Note that this program can be exported to other formats(other VR headsets) with some small modifications if you are up to it.
 
 Special thanks to Sam Boyer, the maker of the unity asset Simple Specturm.
