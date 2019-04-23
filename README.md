@@ -17,3 +17,5 @@ To get started:
 7. Build and Run the scene "Ball Pit" to your Android phone
 
 Disclaimer- The code has some degree of automatic calibration for noise in your current environment but may need further modifications. This project was not an investigation of how to make this program run on all devices and all environments ;)
+
+Special thanks to Sam Boyer, the maker of the unity asset Simple Specturm.
